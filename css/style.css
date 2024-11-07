@@ -1,0 +1,26 @@
+img{
+    width: 75px;
+    
+}
+#lampOff{
+position: relative;
+margin-right: 10px;
+left: 10px;
+}
+#lampOn{
+position: absolute;
+margin-right: 10px;
+}
+.lamp{
+    display: flex;
+align-items: center;
+    
+}
+
+button{
+    padding:5px 10px;
+}
+
+.opacity{
+    opacity: 0;
+}
